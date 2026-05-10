@@ -1,0 +1,18 @@
+- command: /opt/anaconda3/envs/mfa/bin/mfa model download acoustic english_us_arpa
+  date: 2026-05-08 18:27:54.534150
+  exception: ''
+  execution_time: 5.473521947860718
+  exit_code: 1
+  version: 2.0.6
+- command: /opt/anaconda3/envs/mfa/bin/mfa model download acoustic english_us_arpa
+  date: 2026-05-08 18:28:07.967736
+  exception: ''
+  execution_time: 4.9130699634552
+  exit_code: 0
+  version: 2.0.6
+- command: /opt/anaconda3/envs/mfa/bin/mfa model download dictionary english_us_arpa
+  date: 2026-05-08 18:28:29.753899
+  exception: ''
+  execution_time: 1.0685410499572754
+  exit_code: 0
+  version: 2.0.6
