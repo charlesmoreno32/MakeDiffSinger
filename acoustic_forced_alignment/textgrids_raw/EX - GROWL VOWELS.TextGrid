@@ -258,30 +258,30 @@ item []:
             text = "" 
         intervals [62]:
             xmin = 38.83 
-            xmax = 39.21 
+            xmax = 39.2 
             text = "ae" 
         intervals [63]:
+            xmin = 39.2 
+            xmax = 39.21 
+            text = "er" 
+        intervals [64]:
             xmin = 39.21 
             xmax = 39.22 
             text = "er" 
-        intervals [64]:
+        intervals [65]:
             xmin = 39.22 
             xmax = 39.23 
             text = "er" 
-        intervals [65]:
+        intervals [66]:
             xmin = 39.23 
             xmax = 40.39 
             text = "" 
-        intervals [66]:
+        intervals [67]:
             xmin = 40.39 
             xmax = 40.4 
             text = "er" 
-        intervals [67]:
-            xmin = 40.4 
-            xmax = 40.41 
-            text = "er" 
         intervals [68]:
-            xmin = 40.41 
+            xmin = 40.4 
             xmax = 42.08 
             text = "" 
         intervals [69]:
@@ -410,14 +410,14 @@ item []:
             text = "ey" 
         intervals [100]:
             xmin = 57.2 
-            xmax = 58.39 
+            xmax = 59.29 
             text = "" 
         intervals [101]:
-            xmin = 58.39 
-            xmax = 58.75 
+            xmin = 59.29 
+            xmax = 59.3 
             text = "oy" 
         intervals [102]:
-            xmin = 58.75 
+            xmin = 59.3 
             xmax = 59.85 
             text = "" 
         intervals [103]:
@@ -788,30 +788,30 @@ item []:
             text = "" 
         intervals [62]:
             xmin = 38.83 
-            xmax = 39.21 
+            xmax = 39.2 
             text = "ae" 
         intervals [63]:
+            xmin = 39.2 
+            xmax = 39.21 
+            text = "er" 
+        intervals [64]:
             xmin = 39.21 
             xmax = 39.22 
             text = "er" 
-        intervals [64]:
+        intervals [65]:
             xmin = 39.22 
             xmax = 39.23 
             text = "er" 
-        intervals [65]:
+        intervals [66]:
             xmin = 39.23 
             xmax = 40.39 
             text = "" 
-        intervals [66]:
+        intervals [67]:
             xmin = 40.39 
             xmax = 40.4 
             text = "er" 
-        intervals [67]:
-            xmin = 40.4 
-            xmax = 40.41 
-            text = "er" 
         intervals [68]:
-            xmin = 40.41 
+            xmin = 40.4 
             xmax = 42.08 
             text = "" 
         intervals [69]:
@@ -940,14 +940,14 @@ item []:
             text = "ey" 
         intervals [100]:
             xmin = 57.2 
-            xmax = 58.39 
+            xmax = 59.29 
             text = "" 
         intervals [101]:
-            xmin = 58.39 
-            xmax = 58.75 
+            xmin = 59.29 
+            xmax = 59.3 
             text = "oy" 
         intervals [102]:
-            xmin = 58.75 
+            xmin = 59.3 
             xmax = 59.85 
             text = "" 
         intervals [103]:
